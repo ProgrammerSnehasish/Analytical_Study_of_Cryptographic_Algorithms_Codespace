@@ -1,4 +1,4 @@
-<h1 align="center">🔐 Analytical Study of Cryptographic Algorithms</h1>
+<h1 align="center">🔐 Analytical Study of Cryptographic Algorithms — Codespace 💻</h1>
 <p align="center">
   <i>Official companion codespace for the book</i>
 </p>

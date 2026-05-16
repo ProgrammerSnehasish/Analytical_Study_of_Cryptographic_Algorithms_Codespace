@@ -267,25 +267,25 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   <tr>
     <td align="center">
       <a href="https://github.com/ProgrammerSnehasish">
-        <img src="https://github.com/ProgrammerSnehasish.png" width="80"/><br/>
+        <img src="https://avatars.githubusercontent.com/ProgrammerSnehasish?s=60" width="60"/><br/>
         <b>Snehasish Das</b>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/Rounakgithub22">
-        <img src="https://github.com/Rounakgithub22.png" width="80"/><br/>
+        <img src="https://avatars.githubusercontent.com/Rounakgithub22?s=60" width="60"/><br/>
         <b>Rounak Saha</b>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/Puskar-Sarkar">
-        <img src="https://github.com/Puskar-Sarkar.png" width="80"/><br/>
+        <img src="https://avatars.githubusercontent.com/Puskar-Sarkar?s=60" width="60"/><br/>
         <b>Puskar Sarkar</b>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/SagnikaMitra">
-        <img src="https://github.com/SagnikaMitra.png" width="80"/><br/>
+        <img src="https://avatars.githubusercontent.com/SagnikaMitra?s=60" width="60"/><br/>
         <b>Sagnika Mitra</b>
       </a>
     </td>

@@ -2,9 +2,9 @@
 <p align="center">
   <i>Official companion codespace for the book</i>
 </p>
-<!--<p align="center">
+<p align="center">
   <img src="banner.png" alt="Banner" width="800"/>
-</p>-->
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.7+-blue?logo=python" alt="Python"/>
   <img src="https://img.shields.io/badge/License-MIT-green" alt="License"/>

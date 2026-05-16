@@ -268,7 +268,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
     <td align="center">
       <a href="https://github.com/DebrajChatterjee001">
         <img src="https://github.com/DebrajChatterjee001.png" width="60"/><br/>
-        <b>Sagnika Mitra</b>
+        <b>Debraj Chatterjee</b>
       </a>
     </td>
     <td align="center">

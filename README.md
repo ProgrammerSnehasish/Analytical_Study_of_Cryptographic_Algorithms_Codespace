@@ -297,3 +297,49 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
     </td>
   </tr>
 </table>
+
+---
+
+# 🔐 Analytical Study of Cryptographic Algorithms
+<p align="center"> 
+  <img src="Book_Cover_Analytical_Study_of_Cryptographic_Algorithms.jpeg" alt="Analytical Study of Cryptographic Algorithms Book Cover" width="450"/> 
+</p>
+
+## 📘 About the Book
+
+Analytical Study of Cryptographic Algorithms is a comprehensive guide designed for students, researchers, and cybersecurity enthusiasts who want to understand the foundations and practical applications of modern cryptography.
+
+This book explores the evolution, mathematical principles, implementation strategies, and security analysis of various cryptographic algorithms used in modern information security systems.
+
+The content is structured to help readers build both theoretical understanding and practical insight into cryptographic mechanisms used in:
+
+- Network Security
+- Cybersecurity
+- Data Protection
+- Secure Communication
+- Authentication Systems
+- Digital Signatures
+
+## 👨‍💻 Authors
+- Debraj Chatterjee
+- Sagnika Mitra
+- Rounak Saha
+- Puskar Sarkar
+- Snehasish Das
+- Koyel Chakraborty
+- Kalpita Dutta
+
+## 🛒 Availability
+
+The book is available through publication and online platforms.
+
+Publisher: Taurean Publications
+Get it at [Amazon](https://www.amazon.in/Analytical-Cryptographic-Algorithms-Modern-Cybersecurity/dp/B0H2NB85NL/ref=sr_1_1?crid=10PW1HTBI3W53&dib=eyJ2IjoiMSJ9.G-4tW_v9yZan87Rzdb49lw.McziruTt8wX2jgHtx2s9EXUYPdX-ip2yfMMOKGrHvrc&dib_tag=se&keywords=debraj+chatterjee&qid=1779609167&sprefix=debraj+chatterjee%2Caps%2C298&sr=8-1)
+
+## 🌐 Connect & Support
+
+If you find this work useful:
+
+⭐ Star this repository
+📘 Share with fellow learners
+🔐 Explore the fascinating world of cryptography
